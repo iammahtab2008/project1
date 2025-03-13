@@ -94,3 +94,4 @@ lst.place(x=25,y=210)
 lst.bind('<<ListboxSelect>>',show)
 
 win.mainloop()
+print('hello world')
